@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">kt_assignment_1</string>
+    <string name="welcome_all">Welcome All!</string>
+    <string name="next_page">Next page</string>
+    <string name="t_page">t Page</string>
+    <string name="exit">exit</string>
+    <string name="infopage">InfoPage</string>
+    <string name="directions">Directions</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">login</string>
+    <string name="email">Email</string>
+    <string name="register">register</string>
+</resources>
